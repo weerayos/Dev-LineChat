@@ -1,2 +1,4 @@
 # Dev-LineChat
-Dev Line Chat Phase 1
+
+Line Bot PHP
+
