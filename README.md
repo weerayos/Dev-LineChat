@@ -1,4 +1,3 @@
 # Dev-LineChat
 
-Line Bot PHP
-
+Line Bot PHP Starter
